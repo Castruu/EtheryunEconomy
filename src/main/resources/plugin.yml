@@ -1,0 +1,8 @@
+name: EtheryunEconomy
+main: not.etheryun.economy.EcoMain
+version: "1.0"
+description: Plugin made only for Etheryun Network
+depend: [Vault]
+api-version: 1.16
+commands:
+  etheryuneco:
